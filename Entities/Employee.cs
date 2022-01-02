@@ -8,6 +8,7 @@ namespace Entities
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
+
         public virtual void Add(int id, string firstname,
             string lastname)
         {

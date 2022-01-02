@@ -20,7 +20,8 @@ namespace InvocationApp
             var emp1 = new Employee
             {
                 Id = 1,
-                FirstName = "Ahmet"
+                FirstName = "Ahmet",
+                LastName = "Can"
             };
 
             aspect.Add(emp1.Id,emp1.FirstName,emp1.LastName);

@@ -1,11 +1,12 @@
 ﻿using Castle.DynamicProxy;
+using Core.Interceptors;
 using System;
 
 namespace InvocationApp.Aspects
 {
-    public class DefensiveProgrammingAspect : IInterceptor
+    public class DefensiveProgrammingAspect : MethodInterception
     {
-        public void Intercept(IInvocation invocation)
+        public override void OnBefore(IInvocation invocation)
         {
             var parameters = invocation.Arguments;
             foreach (var p in parameters)
