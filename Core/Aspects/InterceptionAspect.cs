@@ -6,8 +6,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InvocationApp.Aspects
+namespace Core.Aspects
 {
+
     public class InterceptionAspect : MethodInterception
     {
         public override void OnBefore(IInvocation invocation)

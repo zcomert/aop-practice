@@ -2,7 +2,7 @@
 using Core.Interceptors;
 using System;
 
-namespace InvocationApp.Aspects
+namespace Core.Aspects
 {
     public class DefensiveProgrammingAspect : MethodInterception
     {
