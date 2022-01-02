@@ -25,4 +25,4 @@ Bu Repository üzerinde tanımlanmış olan uygulamaların videolarına Yazılı
 https://www.youtube.com/channel/UCFkGSddGBO-f4gw1otESNqQ
 
 ## AOP Oynama Listesi
-Yakında...
+https://www.youtube.com/watch?v=OxLX_bQrSfo&list=PLK37qYAhi0EfQrIJqPat32-k2wbOOTFYo
