@@ -24,5 +24,5 @@ AOP gerçekleştirmek üzere; PostSharp ya da Castle DynamicProxy gibi araçlar 
 Bu Repository üzerinde tanımlanmış olan uygulamaların videolarına Yazılım Evi Youtube kanalı üzerinden erişim sağlayabilirsiniz.
 https://www.youtube.com/channel/UCFkGSddGBO-f4gw1otESNqQ
 
-## AOP Oynama Listesi
+## AOP Youtube Oynama Listesi
 https://www.youtube.com/watch?v=OxLX_bQrSfo&list=PLK37qYAhi0EfQrIJqPat32-k2wbOOTFYo
